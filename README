@@ -1,7 +1,11 @@
-ELM327 device may request to be paired before using this program.
+ELM327 client over Bluetooth/rfcomm.
+
+Provide interactive command line tool for ELM327 over Bluetooth.
 
 Example:
 $ elm-bt 11:22:33:44:55:66
 $ > AT Z
 $ OK
+
+You might need to pair your ELM327 device before using this tool.
 
