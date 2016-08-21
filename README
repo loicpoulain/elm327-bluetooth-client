@@ -1,0 +1,7 @@
+ELM327 device may request to be paired before using this program.
+
+Example:
+$ elm-bt 11:22:33:44:55:66
+$ > AT Z
+$ OK
+
